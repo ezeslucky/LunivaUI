@@ -84,5 +84,12 @@ git push origin feature-name
 
 ---
 
+### Contribution Guidelines
+
+- Ensure your code adheres to the project's coding standards and best practices.
+- Write descriptive commit messages for easy tracking.
+- Test your changes thoroughly to avoid introducing bugs.
+
+---
 
 
