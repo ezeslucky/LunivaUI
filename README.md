@@ -76,19 +76,6 @@ git push origin feature-name
 
 ---
 
-#### 9. **Create a Pull Request (PR)**  
-- Go to the [Pull Requests](https://github.com/your-username/LunivaUI/pulls) section of the original repository.  
-- Click **"New Pull Request"**.  
-- Select your branch and submit your PR.  
-- Provide a clear description of your changes, including why they are beneficial.
-
----
-
-### Contribution Guidelines
-
-- Ensure your code adheres to the project's coding standards and best practices.
-- Write descriptive commit messages for easy tracking.
-- Test your changes thoroughly to avoid introducing bugs.
 
 ---
 
