@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     "web development",
     "web design",
     "starter template",
-    "Arihant",
+    "ezeslucky",
     "spectrum",
     "bootstrap",
     "tailwind",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
       url: siteConfig.author.url,
     },
   ],
-  creator: "Arihant Jain & Aman Jain",
+  creator: "ezeslucky Jain & Aman Jain",
   openGraph: {
     type: "website",
     locale: siteConfig.locale,
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage.url],
-    creator: "@arihantcodes",
+    creator: "@ezesluckycodes",
   },
 
   manifest: `${siteConfig.url}/site.webmanifest`,

@@ -1,23 +1,23 @@
 export const siteConfig = {
   name: "Luniva UI",
-  url: "https://spectrumui.arihantcodes.in/",
+  url: "https://spectrumui.ezesluckycodes.in/",
   ogImage: {
-    url: "https://spectrumui.arihantcodes.in/og.png",
+    url: "https://spectrumui.ezesluckycodes.in/og.png",
 
     alt: "Luniva UI - Beautiful and accessible React components",
   },
   description:
     "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
   links: {
-    twitter: "https://x.com/arihantcodes",
-    github: "https://github.com/arihantcodes",
-    linkedin: "https://www.linkedin.com/in/arihantcodes", // Update with your actual LinkedIn profile
+    twitter: "https://x.com/ezesluckycodes",
+    github: "https://github.com/ezesluckycodes",
+    linkedin: "https://www.linkedin.com/in/ezesluckycodes", // Update with your actual LinkedIn profile
     // Update if you have a Facebook page
-    instagram: "https://www.instagram.com/arihantjainn18", // Update with your actual Instagram profile
+    instagram: "https://www.instagram.com/ezesluckyjainn18", // Update with your actual Instagram profile
   },
   author: {
-    name: "Arihant Jain",
-    url: "https://arihantcodes.in",
+    name: "ezeslucky Jain",
+    url: "https://ezesluckycodes.in",
   },
   keywords: [
     "UI components",

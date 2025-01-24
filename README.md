@@ -20,8 +20,8 @@ Click the "Fork" button at the top-right of the repository page to create your o
 Clone your forked repository to your local machine:
 
 ```bash
-git clone https://github.com/arihantcodes/spectrum-ui.git
-cd spectrum-ui
+git clone https://github.com/ezeslucky/LunivaUI.git
+cd LunivaUI
 ```
 
 ---
@@ -77,40 +77,12 @@ git push origin feature-name
 ---
 
 #### 9. **Create a Pull Request (PR)**  
-- Go to the [Pull Requests](https://github.com/your-username/spectrum-ui/pulls) section of the original repository.  
+- Go to the [Pull Requests](https://github.com/your-username/LunivaUI/pulls) section of the original repository.  
 - Click **"New Pull Request"**.  
 - Select your branch and submit your PR.  
 - Provide a clear description of your changes, including why they are beneficial.
 
 ---
 
-### Contribution Guidelines
 
-- Ensure your code adheres to the project's coding standards and best practices.
-- Write descriptive commit messages for easy tracking.
-- Test your changes thoroughly to avoid introducing bugs.
 
----
-
-### Contributors
-
-Thanks to all the amazing contributors who have helped improve Luniva UI! 💖
-
-<div align="center">
-
-![Contributors](https://contributors-img.web.app/image?repo=arihantcodes/spectrum-ui)
-
-</div>
-
-#### List of Contributors:
-
-1. [arihantcodes](https://github.com/arihantcodes)
-2. [itzamanjain](https://github.com/itzamanjain)
-3. [Harsha-10](https://github.com/Harsha-10)
-4. [Prince5723](https://github.com/Prince5723)
-5. [Pratiyankkumar](https://github.com/Pratiyankkumar)
-6. [veerendra19codes](https://github.com/veerendra19codes)
-7. [0xKafkaa](https://github.com/0xKafkaa)
-8. [AayushVinayDev](https://github.com/AayushVinayDev)
-
-Want to see your name here? Follow the steps above and contribute today! 🚀

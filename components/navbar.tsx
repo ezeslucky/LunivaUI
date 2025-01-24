@@ -56,13 +56,13 @@ export function Navbar() {
               </div>
               <div>
               <Link
-                href="https://github.com/arihantcodes/spectrum-ui"
+                href="https://github.com/ezeslucky/LunivaUI.git"
                 className={buttonVariants({ variant: "ghost", size: "icon" })}
               >
                 <Icons.gitHub className="icon-class w-4" />
               </Link>
               <Link
-                href="https://x.com/arihantcodes"
+                href="https://x.com/ezeslucky"
                 className={buttonVariants({
                   variant: "ghost",
                   size: "icon",

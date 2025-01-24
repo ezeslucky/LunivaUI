@@ -36,7 +36,7 @@ export default function Home() {
   };
   const fetchGithubData = () => {
     axios
-      .get("https://api.github.com/repos/arihantcodes/spectrum-ui")
+      .get("https://api.github.com/repos/ezesluckycodes/spectrum-ui")
       .then((response) => {
         const star = response.data.stargazers_count;
         setStar(star);
@@ -105,14 +105,14 @@ export default function Home() {
                 Explore Components
               </Button>
             </Link>
-            <Link href="https://github.com/arihantcodes/spectrum-ui">
+            <Link href="https://github.com/ezeslucky/LunivaUI.git">
               <Button
                 className="gap-4 rounded-2xl"
                 variant={"secondary"}
                 size={"lg"}
               >
                 <Icons.gitHub className="icon-class w-4 " />
-                Give a Star ⭐ {star}
+                
               </Button>
             </Link>
           </motion.div>
